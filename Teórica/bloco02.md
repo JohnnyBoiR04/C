@@ -2,9 +2,10 @@
 ## ANTLR
 
 #### Notes
-diferença entre "+" e "*":
+##### 'Operadores':
 - "+" - 1 ou mais
 - "*" - 0 ou mais
+- "?" - 0 ou 1 vez
 
 #### Shortcuts
 antlr4-test corre sozinho na pasta 
