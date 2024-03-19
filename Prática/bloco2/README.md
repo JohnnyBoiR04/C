@@ -8,7 +8,7 @@
 - antlr4-main
 - antlr4-run
 
-### Make Execute / Visitor Work
+### Make Visitor Work
 - antlr4-visitor Hello Execute String 
     - (you might have to redo Execute)
 - antlr4-main -v Execute -f
